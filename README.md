@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm BHARANI KUMAR S</h1>
 <h3 align="center">A passionate ML developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fit:918/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn-images-1.medium.com/v2/resize:fit:918/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
 
 
 - 💬 Ask me about **Machine Learning,Deep Learning**
