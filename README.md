@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm BHARANI KUMAR S</h1>
 <h3 align="center">A passionate ML developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharanikumar02&label=Profile%20views&color=0e75b6&style=flat" alt="bharanikumar02" /> </p>
+
 
 - 💬 Ask me about **Machine Learning,Deep Learning**
 
