@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharanikumar02&label=Profile%20views&color=0e75b6&style=flat" alt="bharanikumar02" /> </p>
 
-- 💬 Ask me about **Machine Learning,Deep Learning**
+- 💬 Ask me about **Data Visualization,Machine Learning,Deep Learning**
 
 - 📫 How to reach me **kumarbharani206@gmail.com**
 
